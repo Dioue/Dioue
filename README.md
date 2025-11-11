@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dioue/Dioue/output/pacman-contribution-banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dioue/Dioue/output/pacman-contribution-banner.svg">
-  <img alt="pacman contribution banner" src="https://raw.githubusercontent.com/Dioue/Dioue/output/pacman-contribution-banner.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dioue/Dioue/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dioue/Dioue/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution banner" src="https://raw.githubusercontent.com/Dioue/Dioue/output/pacman-contribution-graph.svg">
 </picture>
 
 <h1 style="font-weight: bold;" align="center">Hi!, I'm Dioue.</h1>
