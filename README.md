@@ -1,10 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dioue/Dioue/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dioue/Dioue/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution banner" src="https://raw.githubusercontent.com/Dioue/Dioue/output/pacman-contribution-graph.svg">
-
-</picture>
-
 <h2 style="font-weight: bold; font-size: 2rem" align="center">Hi👋, I'm Dioue.</h2>
 
 
