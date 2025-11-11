@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b4261,100:1f2335&height=200&section=header&text=Github%20Portfolio&fontSize=35&fontColor=BB9AF7&animation=fadeIn&fontAlignY=38" />
-</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dioue/Dioue/output/pacman-contribution-graph-dark.svg">
@@ -80,11 +78,12 @@ Hi there! I'm Joe Marvin Tabañera, a passionate Full-Stack Developer who loves 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=static&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-FF6A00?style=static&logo=n8n&logoColor=white"/>
 </p>
-<hr>
 
-<br>
 
-<h3 style="font-size: 1.2rem; "align="center">🔗 Connect with me</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b4261,100:1f2335&height=120&section=header&text=Connect%20with%20Me&fontSize=25&fontColor=BB9AF7&animation=fadeIn&fontAlignY=38" />
+</p>
+
 <p align="center">
   <a href="mailto:joemarvin.dev@gmail.com"><img src="https://img.shields.io/badge/Mail me-c71610?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/joemarvindev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
