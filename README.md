@@ -1,15 +1,23 @@
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dioue/Dioue/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dioue/Dioue/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution banner" src="https://raw.githubusercontent.com/Dioue/Dioue/output/pacman-contribution-graph.svg">
+
 </picture>
 
-<h3 style="font-weight: bold; font-size: 2rem" align="center">Hi👋, I'm Dioue.</h3>
+<h2 style="font-weight: bold; font-size: 2rem" align="center">Hi👋, I'm Dioue.</h2>
 
-<h4 style="font-weight: bold;" align="center">DE Enthusiast & Full-stack Developer</h4>
-<hr style="font">
+
+<h4 style="font-weight: bold;" align="center">Full-stack Developer & DE Enthusiast</h4>
+<p align="center"> 
+I mainly work with:<br>
+<img src="https://img.shields.io/badge/Django + FastApi-092e20?style=static&logo=django&logoColor=green"/>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=static&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DBFB?style=static&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-512BD4?style=static&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node-green?style=static&logo=node.js&logoColor=white"/>
+</p>
+<hr>
 
 ### 👨🏼‍💻 Who am I
 
@@ -43,7 +51,7 @@ Hi there! I'm Joe Marvin Tabañera, a passionate Full-Stack Developer who loves 
 | ------ | ------ |
 
 ---
-### 💻 Tech Stack
+### 💻 Technologies I’ve Worked With
 
 <p align="left"> 
 🧠 Languages<br>
