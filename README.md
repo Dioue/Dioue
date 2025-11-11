@@ -1,5 +1,8 @@
-<!-- Animated Typing Intro (Generated using readme-typing-svg) -->
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dioue/Dioue/output/pacman-contribution-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dioue/Dioue/output/pacman-contribution-banner.svg">
+  <img alt="pacman contribution banner" src="https://raw.githubusercontent.com/Dioue/Dioue/output/pacman-contribution-banner.svg">
+</picture>
 
 <h1 style="font-weight: bold;" align="center">Hi!, I'm Dioue.</h1>
 <h4 style="font-weight: bold;" align="center">DE Enthusiast | Full-stack Developer | Trader</h4>
