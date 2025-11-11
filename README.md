@@ -1,8 +1,8 @@
 <!-- Animated Typing Intro (Generated using readme-typing-svg) -->
 
 
-<h1 style="font-weight: bold; text-align: center;">Hi!, I'm Dioue.</h1>
-<h4 style="font-weight: bold; text-align: center;" >DE Enthusiast | Full-stack Developer | Trader</h4>
+<h1 style="font-weight: bold;" align="center">Hi!, I'm Dioue.</h1>
+<h4 style="font-weight: bold;" align="center">DE Enthusiast | Full-stack Developer | Trader</h4>
 <hr style="font">
 
 ### 👋 Who am I
