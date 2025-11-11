@@ -5,7 +5,7 @@
 </picture>
 
 <h1 style="font-weight: bold;" align="center">Hi!, I'm Dioue.</h1>
-<h4 style="font-weight: bold;" align="center">DE Enthusiast | Full-stack Developer | Trader</h4>
+<h4 style="font-weight: bold;" align="center">DE Enthusiast | Full-stack Developer</h4>
 <hr style="font">
 
 ### 👋 Who am I
