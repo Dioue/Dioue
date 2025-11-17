@@ -14,12 +14,7 @@ I mainly work with:<br>
 
 ### 👨🏼‍💻 Who am I
 
-Hi there! I'm Joe Marvin Tabañera, a passionate Full-Stack Developer who loves transforming ideas into functional and visually engaging web experiences.
-
-🎯 I have hands-on experience building full-stack web applications that integrate **Django REST** backends with **React** frontends.
-
-🎯 I’m passionate about creating scalable, maintainable solutions that improve business efficiency while focusing on clean design and intuitive user experience.
-
+Hi there! I'm Joe Marvin Tabañera, I have hands-on experience building full-stack web applications that integrate **Django REST** backends with **React** frontends.
 
 🎓 **Education:** BS in Computer Science [2021 — 2025]<br>
 🌍 **Based in:** The Philippines<br>
