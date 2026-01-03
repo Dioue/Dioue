@@ -23,12 +23,12 @@ Hi there! I'm Joe Marvin Tabañera, I have hands-on experience building full-sta
 
 ---
 
-🚀 **2020** — Began my programming journey through freeCodeCamp, exploring Python and web fundamentals.  
-💡 **2021** — Entered university and built my first backend API & Discord bot using Python.  
-🧩 **2022** — Learned Flask and developed several academic projects that strengthened my backend foundations.  
-🎨 **2023** — Discovered frontend development and fell in love with React’s component-driven architecture.  
-⚙️ **2024** — Built my first full-stack project integrating **Django REST**, **React**, and **PostgreSQL** for real-world use.  
-📊 **2025** — Diving into **data engineering** and **workflow orchestration** to expand my end-to-end development skills.
+✭ **2020** — Began my programming journey through freeCodeCamp, exploring Python and web fundamentals.  
+✭ **2021** — Entered university and built my first backend API & Discord bot using Python.  
+✭ **2022** — Learned Flask and developed several academic projects that strengthened my backend foundations.  
+✭ **2023** — Discovered frontend development and fell in love with React’s component-driven architecture.  
+✭ **2024** — Built my first full-stack project integrating **Django REST**, **React**, and **PostgreSQL** for real-world use.  
+✭ **2025** — Diving into **data engineering** and **workflow orchestration** to expand my end-to-end development skills.
 
 ---
 
