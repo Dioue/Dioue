@@ -1,8 +1,8 @@
-<h2 style="font-weight: bold; font-size: 2rem" align="center">Hi👋, I'm Dioue.</h2>
+<h2>Hi👋, I'm Dioue.</h2>
 
 
-<h4 style="font-weight: bold;" align="center">Full-stack Developer & DE Enthusiast</h4>
-<p align="center"> 
+<h4>Full-stack Developer & DE Enthusiast</h4>
+<p> 
 I mainly work with:<br>
 <img src="https://img.shields.io/badge/Django-092e20?style=static&logo=django&logoColor=green"/>
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=static&logo=typescript&logoColor=white"/>
