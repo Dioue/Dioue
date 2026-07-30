@@ -75,17 +75,9 @@ Hi there! I'm Joe Marvin Tabañera, I have hands-on experience building full-sta
 <img src="https://img.shields.io/badge/n8n-FF6A00?style=static&logo=n8n&logoColor=white"/>
 </p>
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b4261,100:1f2335&height=120&section=header&text=Connect%20with%20Me&fontSize=25&fontColor=BB9AF7&animation=fadeIn&fontAlignY=38" />
-</p>
-
-<p align="center">
+<h3>Connect with Me</h3>
+<p>
   <a href="mailto:joemarvin.dev@gmail.com"><img src="https://img.shields.io/badge/Mail me-c71610?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/joemarvindev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b4261,100:1f2335&height=100&section=footer" />
 </p>
 
