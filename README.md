@@ -1,4 +1,4 @@
-<h2>Hi👋, I'm Dioue.</h2>
+<h2>Hello there👋, I'm Dioue.</h2>
 
 
 <h4>Full-stack Developer & DE Enthusiast</h4>
