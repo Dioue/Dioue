@@ -1,5 +1,3 @@
-<h1>Hello there👋, I'm Dioue.</h1>
-
 ### 💻 Technologies I’ve Worked With
 
 <p align="left"> 
